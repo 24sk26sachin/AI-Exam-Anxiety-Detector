@@ -60,8 +60,8 @@ streamlit run frontend/app.py
 > [!IMPORTANT]
 > Please update these links for your mentor's review.
 
-- **Live Demo**: [🚀 Click here to see the Demo](https://ai-exam-anxiety-detector-byteforce.streamlit.app/)
-- **GitHub Repository**: [💻 Visit the Source Code](https://github.com/24sk26sachin/AI-Exam-Anxiety-Detector/)
+- **Live Demo**: [🚀 Click here to see the Demo](https://your-demo-link.com)
+- **GitHub Repository**: [💻 Visit the Source Code](https://github.com/your-username/ai-exam-anxiety-detector)
 
 ## License
 
