@@ -1,0 +1,14 @@
+Python is a interpreter language.
+that is developed by Dutch programmer
+
+C:- procedural
+C++:- multiparadigm
+ABC:- modular coding
+
+features of python
+. easy to learn and analysis
+. dynamically type programming
+. high level programming language
+. python is both interpreter and script  
+. use number of library 
+. large number of 
